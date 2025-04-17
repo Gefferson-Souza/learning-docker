@@ -1,0 +1,32 @@
+Dockerize BOTH apps - the Python and the Node app.
+
+1) Create appropriate images for both apps (two separate images!).
+HINT: Have a brief look at the app code to configure your images correctly!
+
+2) Launch a container for each created image, making sure, 
+that the app inside the container works correctly and is usable.
+
+3) Re-create both containers and assign names to both containers.
+Use these names to stop and restart both containers.
+
+4) Clean up (remove) all stopped (and running) containers, 
+clean up all created images.
+
+5) Re-build the images - this time with names and tags assigned to them.
+
+6) Run new containers based on the re-built images, ensuring that the containers
+are removed automatically when stopped.
+
+Dockerize AMBAS as aplicações - a aplicação Python e a aplicação Node.
+
+Crie imagens apropriadas para ambas as aplicações (duas imagens separadas!). DICA: Dê uma breve olhada no código das aplicações para configurar suas imagens corretamente!
+
+Execute um container para cada imagem criada, garantindo que a aplicação dentro do container funcione corretamente e seja utilizável.
+
+Recrie ambos os containers e atribua nomes a ambos. Use esses nomes para parar e reiniciar ambos os containers.
+
+Limpe (remova) todos os containers parados (e em execução), limpe todas as imagens criadas.
+
+Reconstrua as imagens - desta vez com nomes e tags atribuídos a elas.
+
+Execute novos containers baseados nas imagens reconstruídas, garantindo que os containers sejam removidos automaticamente quando parados.
